@@ -64,6 +64,19 @@ And by appointment.
 
 *Tuesday/Thursday Section*
 
+* Email: ded59@pitt.edu
+
+| Office     | Hours              |
+|:-----------|:-------------------|
+| SENSQ 6410 |      Th 4p-6p      |
+| SENSQ 5802 |   F 11:30a-1:30p   |
+
+And by appointment
+
+* Recitation Materials: https://github.com/debarundas1/Pitt-CS1520_Recitations
+
+
+
 ### Optional Textbook
 
 [Programming the World Wide Web, 8th Ed.](https://www.amazon.com/Programming-World-Wide-Web-8th/dp/0133775984)
