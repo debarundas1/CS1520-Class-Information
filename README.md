@@ -64,12 +64,14 @@ And by appointment.
 
 *Tuesday/Thursday Section*
 
-* Email: DED59@pitt.edu
+* Email: [ded59@pitt.edu](mailto:ded59@pitt.edu)
 
 | Office     | Hours              |
 |:-----------|:-------------------|
 | SENSQ 6410 |      Th 4p-6p      |
 | SENSQ 6410 |   F 11:30a-1:30p   |
+
+* [Recitation Materials](https://github.com/debarundas1/Pitt-CS1520_Recitations)
 
 ### Optional Textbook
 
